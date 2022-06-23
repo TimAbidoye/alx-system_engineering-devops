@@ -1,4 +1,2 @@
-touch school.mgc
-echo 'O string SCHOOL School data' > school.mgc
-echo '!:mime School' >> school.mgc
-file -C -m school.mgc
+O string SCHOOL School data
+!:mime School
