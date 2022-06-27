@@ -1,1 +1,1 @@
-non empty file
+print hello world
